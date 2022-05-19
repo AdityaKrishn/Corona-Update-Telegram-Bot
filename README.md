@@ -12,6 +12,7 @@ References used:
 • Telegram:
 – https://core.telegram.org/bots/api
 – https://core.telegram.org/bots/samples
+
 • Covid api examples:
 – https://public.opendatasoft.com/explore/dataset/covid-19-germany-landkreise/api/
 – https://npgeo-corona-npgeo-de.hub.arcgis.com/datasets/917fc37a709542548cc3be077a786c17_0
